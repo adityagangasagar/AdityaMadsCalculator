@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "239744680359",
+    "project_id": "mads-app-b910a",
+    "storage_bucket": "mads-app-b910a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239744680359:android:37060128f45a65ceeff682",
+        "android_client_info": {
+          "package_name": "com.aditya.adityamadscalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239744680359-6hlk16pd2et8183n1cm93u7o8kkfp736.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4ocDgs3-9xpV7bQwal2FAWuaBxA1TVlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239744680359-6hlk16pd2et8183n1cm93u7o8kkfp736.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
